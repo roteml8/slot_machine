@@ -1,7 +1,7 @@
 
 
 // Rotem Levi
-public class HW2_205785959 {
+public class Main {
 
 	
 	
