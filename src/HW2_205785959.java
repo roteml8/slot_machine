@@ -1,6 +1,6 @@
 
 
-// Rotem Levi, ID: 205785959
+// Rotem Levi
 public class HW2_205785959 {
 
 	
